@@ -1,0 +1,13 @@
+.root{
+    -fx-background-image: url("file:resources/Images/mainBackground.jpg");
+    -fx-background-size: cover;
+}
+
+#music_btn{
+    -fx-background-image : url('file:resources/Images/music_on.png');
+    -fx-background-size: 30 30;
+}
+
+#music_btn:selected{
+    -fx-background-image: url('file:resources/Images/music_off.png');
+}

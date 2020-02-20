@@ -1,0 +1,10 @@
+.root{
+    -fx-background-image: url("file:resources/Images/background_.jpg");
+    -fx-background-size: cover;
+}
+
+
+.Us{
+    -fx-background-image : url('file:resources/Images/WeAreBeautiful.jpeg');
+    -fx-background-size: cover;
+}
